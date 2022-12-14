@@ -1,0 +1,19 @@
+ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+}
+.header-cen {
+    display: flex;
+    width: 1000px;
+}
+li a {
+    background: orange;
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    color: red;
+    display: flex;
+}

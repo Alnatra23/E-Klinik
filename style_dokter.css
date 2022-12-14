@@ -1,0 +1,32 @@
+.tcenter{
+    margin-left: auto;
+    margin-right: auto;
+}
+thead{
+    background-color: rgb(151, 253, 158);
+    font-weight: bold;
+    letter-spacing: 0.03em;
+    padding: 10px;
+}
+.btn-yellow {
+    background-color: #bde104;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+  }
+  .btn-red {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+  }
